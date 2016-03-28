@@ -1,7 +1,7 @@
 # docker-contagion
 
 Docker container for epidemic modelling and forward-time simulations using nxsim and contagion Python packages.
-This container is based on `kentwait/miniconda-mpi` which means it can run MPI applications natively and through Python using Jupyter notebook.
+This container is based on [kentwait/miniconda-mpi](https://github.com/kentwait/miniconda-mpi) which means it can run MPI applications natively and through Python using Jupyter notebook.
 
 ## Install
 
